@@ -1,15 +1,9 @@
-Quarto Starting file!!
 
-```{r}
+Lets interview someone about a cinema or theater in Hamburg
 
+* interviewed people:
+ + Ava: Cinemaxx Dammtor, they have sereval cool events throughout the year and are findable near the university
 
-```
+![Cinemaxx Dammtor](https://img.fotocommunity.com/cinemaxx-am-dammtor-438339fd-676c-4d08-bd1b-a14cc26c9dd0.jpg?height=1080)
 
-Thats just it!
-
-Lets interview Ava about a Cinema or theater
-
-Cinemaxx Dammtor: they have sereval cool events throughout the year
-
-
-to open git into R you have to:
+more people are following soon
