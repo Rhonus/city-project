@@ -1,0 +1,15 @@
+Quarto Starting file!!
+
+```{r}
+
+
+```
+
+Thats just it!
+
+Lets interview Ava about a Cinema or theater
+
+Cinemaxx Dammtor: they have sereval cool events throughout the year
+
+
+to open git into R you have to:
