@@ -1,1 +1,3 @@
-gnorepls.txt
+ignorepls.txt
+*.html
+*_files
